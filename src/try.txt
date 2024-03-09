@@ -1,4 +1,1 @@
-Hi Jordan,
-I want to help you to create your "Checkers" game,
-But first i think that we should start in lower level programming game, such as "Tic Tac Toe"
-Please keep in touch and let me know if you would like to work together on that.
+
