@@ -39,7 +39,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Credits
 
-- Created by [Your Name](https://github.com/JordaNO10)
+- Created by [YardeN Halely](https://github.com/JordaNO10)
 - Inspired by the classic game of Checkers.
 
 ## License
